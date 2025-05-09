@@ -7,7 +7,7 @@ words <- c("Spatial", "Visualization", "Ecolinformatics", "Theoretical",
 
 # Define other words and their frequency
 # words <- c("Running", "Art", "Books", "Countryside", 
-           "Trips", "Oca", "Mountain")
+           "Trips", "Climbing", "Mountain", "Home", "Flowers", "Cats")
 
 # Assigning the frequency of each word (here, just assuming each word has a frequency of 1 for simplicity)
 # frequencies <- rep(1, length(words))
